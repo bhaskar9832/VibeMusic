@@ -52,7 +52,8 @@ The goal of this project is to understand how real-world recommendation engines 
 
 ### VibeMusic Web App UI
 
-<img src="./assets/app-screenshot.png" width="100%" alt="VibeMusic App Screenshot" />
+<img width="1845" height="1197" alt="image" src="https://github.com/user-attachments/assets/74d74753-d526-416b-b562-7883c53aa8a4" />
+
 
 ---
 
