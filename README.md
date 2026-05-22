@@ -1,7 +1,103 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+<img src="./assets/vibemusic-logo.png" width="90" alt="VibeMusic Logo" />
+
+# 🎵 VibeMusic
+
+### AI-powered music recommendation engine that understands your mood, activity, location, and weather to generate adaptive real-time playlists.
+
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-111827?style=for-the-badge&logo=python&logoColor=yellow)
+![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
+
 </div>
 
+---
+
+## 📌 About The Project
+
+**VibeMusic** is an AI-based music recommendation web application that generates music according to the user's real-time context.
+
+The app detects or takes input from:
+
+- 📍 User location  
+- 🌦️ Current weather  
+- 🙂 User mood from image/camera scan  
+- 🏃 Current activity  
+- 🌐 Preferred music language  
+
+Based on these signals, VibeMusic creates a personalized music vibe and recommends songs that match the user's current environment and emotional state.
+
+This project was developed in **two different approaches**:
+
+1. **Google AI Studio / Gemini API based recommendation**
+2. **Custom Machine Learning model trained using a Kaggle dataset**
+
+The goal of this project is to understand how real-world recommendation engines can combine AI, weather data, mood detection, and user activity to generate smarter music experiences.
+
+---
+
+## 🖼️ Project Preview
+
+### GitHub Repository Preview
+
+<img src="./assets/github-preview.png" width="100%" alt="VibeMusic GitHub Preview" />
+
+---
+
+### VibeMusic Web App UI
+
+<img src="./assets/app-screenshot.png" width="100%" alt="VibeMusic App Screenshot" />
+
+---
+
+## 🚀 Features
+
+- 🎵 AI-powered music recommendation
+- 📸 Mood detection using user image/camera scan
+- 📍 Location-based context detection
+- 🌦️ Weather-aware music generation
+- 🏃 Activity-based playlist recommendation
+- 🌐 Multi-language music preference
+- 🤖 Gemini API integration
+- 🧠 Custom ML model approach using Kaggle dataset
+- ⚡ Fast Vite + React frontend
+- 🎨 Modern dark neon UI
+- 🎧 YouTube Music discovery support
+
+---
+
+## 🧠 How It Works
+
+VibeMusic generates recommendations by combining multiple user-context signals.
+
+```mermaid
+flowchart TD
+    A[User Opens VibeMusic] --> B[Detect Location]
+    A --> C[Scan Mood From Image]
+    A --> D[Select Activity]
+    A --> E[Select Music Language]
+
+    B --> F[Fetch Weather Data]
+    C --> G[Analyze Mood]
+    D --> H[Understand User Activity]
+    E --> I[Set Language Preference]
+
+    F --> J[Generate Music Context]
+    G --> J
+    H --> J
+    I --> J
+
+    J --> K[AI / ML Recommendation Engine]
+    K --> L[Generate Vibe Mix]
+    L --> M[Play Recommended Music]
+
+```
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
