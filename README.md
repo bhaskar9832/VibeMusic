@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/vibemusic-logo.png" width="90" alt="VibeMusic Logo" />
+<img width="292" height="101" alt="image" src="https://github.com/user-attachments/assets/841aedf5-363c-4f1f-8a75-57bc02a44318" />
 
-# 🎵 VibeMusic
+
 
 ### AI-powered music recommendation engine that understands your mood, activity, location, and weather to generate adaptive real-time playlists.
 
