@@ -43,11 +43,6 @@ The goal of this project is to understand how real-world recommendation engines 
 ---
 
 ## 🖼️ Project Preview
-
-### GitHub Repository Preview
-
-<img src="./assets/github-preview.png" width="100%" alt="VibeMusic GitHub Preview" />
-
 ---
 
 ### VibeMusic Web App UI
