@@ -98,7 +98,7 @@ flowchart TD
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1hO8awO9ExuJSuooAv0gAC4V2U0pGJI9q
+View  app in AI Studio: https://ai.studio/apps/drive/1hO8awO9ExuJSuooAv0gAC4V2U0pGJI9q
 
 ## Run Locally
 
